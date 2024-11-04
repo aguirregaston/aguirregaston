@@ -1,4 +1,4 @@
-![](https://better-github-skills.deno.dev/api/aguirregaston?techs=css,js,c#,figma)
+![](https://better-github-skills.deno.dev/api/aguirregaston?techs=css,js,c#)
 
 <!--
 **aguirregaston/aguirregaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
